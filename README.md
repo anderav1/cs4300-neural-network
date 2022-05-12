@@ -26,5 +26,11 @@ Tasks:
 The objective for this phase was to select the model that performed best on the dataset.
 
 Tasks:
-- 
+- Split the dataset into a training set and validation set
+- Build a basic model with 1 layer and evaluate on validation set
+- Build several more complex models and evaluate on validation set
+- Build a model that overfits the training data and evaluate on validation set
+- Build a model with early stopping and model checkpointing and evaluate on validation set
+- Plot learning curves
+- Evaluate models according to accuracy, precision, recall, F1 score
 
